@@ -7,7 +7,7 @@ class Pipeline:
         #seasons: Lista de temporadas.
         #team: ID del equipo
         self.seasons = seasons
-        self.api_key = '10c63ea9a623b4054c1b48a3de24e9ee'
+        self.api_key = '##############'
         self.team = team
         self.data = []
         self.output_folder= outputfolder
